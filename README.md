@@ -1,2 +1,2 @@
-#tutorial
+#goit-homework-01
 
